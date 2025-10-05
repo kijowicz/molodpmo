@@ -5,10 +5,10 @@ import { Link } from 'react-router-dom';
 
 const Index = () => {
   const stats = [
-    { label: 'Активных проектов', value: '12', icon: Target },
+    { label: 'Активных проектов', value: '15+', icon: Target },
     { label: 'Участников', value: '500+', icon: Users },
-    { label: 'Проведено мероприятий', value: '48', icon: Calendar },
-    { label: 'Реализованных идей', value: '32', icon: TrendingUp },
+    { label: 'Проведено мероприятий', value: '50+', icon: Calendar },
+    { label: 'Реализованных идей', value: '20+', icon: TrendingUp },
   ];
 
   const features = [
